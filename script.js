@@ -1,4 +1,4 @@
-function goHome() {
+function reloadPage() {
     window.location.href = "/";
 }
 
